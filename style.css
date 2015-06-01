@@ -8,12 +8,12 @@ body {
     background-color: black;
     color: white;
     margin: 0 auto;
-    width: 700px;
-    text-align: center;
+    width: 700px !important;
+    text-align: center !important;
 }
 img {
-    float : right;
-    height : 50px;
+    float : right !important;
+    height : 50px !important;
 }
 li {
     background-color: #1E2024;
